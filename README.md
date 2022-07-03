@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeoZhao16
+- 👋 Hi, I’m Leo Zhao.
 - 👀 I’m interested in learning Python.
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate on ... I am not sure as of now.
